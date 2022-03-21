@@ -13,8 +13,7 @@ x86：(目前看起来，看着有点正常，但又有点胡言乱语的感觉)
 
 ### 工作内容
 - [x] pytorch模型梳理与导出
-- [x] x86 demo
-    说明：由于模型太大，我拆成了四个传到github的，所以要把assert下的四个bin*给cat成一个
+- [x] x86 demo (PS:由于模型太大，我拆成了四个传到github的，所以要把assert下的四个bin*给cat成一个)
 - [ ] android demo
 
 ### 目前问题
