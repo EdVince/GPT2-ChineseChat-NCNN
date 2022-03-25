@@ -6,7 +6,8 @@
 
 ### 展示
 android：[APK下载(6666)](https://pan.baidu.com/s/1zN1fDREJd-MR2B8BpzO55Q)
-<img src="./resources/android.jpg" width = "300" alt="图片名称" align=center />
+<img src="./resources/android.jpg" width = "300" alt="图片名称"/>
+
 x86：(目前看起来，看着有点正常，但又有点胡言乱语的感觉)
 ![image](./resources/x86.png)
 
