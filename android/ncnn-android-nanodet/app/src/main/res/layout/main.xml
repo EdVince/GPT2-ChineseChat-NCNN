@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/showText"
+            android:layout_width="match_parent"
+            android:layout_height="667dp"
+            android:textColor="#000000"
+            android:background="@drawable/bg"
+            android:layout_weight="0.05"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.95"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/inText"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
+
+            <Button
+                android:id="@+id/sendBtn"
+                android:layout_width="133dp"
+                android:layout_height="match_parent"
+                android:text="给爷回话" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
